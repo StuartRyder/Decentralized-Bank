@@ -1,0 +1,7 @@
+body{
+    height:100vh;
+    background: linear-gradient(45deg, #707070, #499fc4);
+}
+#Trans{
+    background: rgba(255, 255, 255, 0.4);
+}
